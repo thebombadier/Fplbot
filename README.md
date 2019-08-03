@@ -9,7 +9,7 @@ The current team from a day of data is in the file team.csv. I haven't got round
 
 The current team is [here](https://i.redd.it/pu1a3tggv7e31.png)
 
-Total Price: £95.5
+Total Price: £98.5
 
 Total Mentions in RMT thread: 3730
 
