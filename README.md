@@ -13,6 +13,6 @@ Total Price: £98.5
 
 Total Mentions in RMT thread: 3730
 
-There is 4.5 mil in the bank since the program privileges popularity over price. This is something that with my skills and time constraints I don't think I'll be able to fix but if anyone would want to help they are more than welcome.
+since the program privileges popularity over price the team created won't max out spending at 100mil. This is something that with my skills and time constraints I don't think I'll be able to fix but if anyone would want to help they are more than welcome.
 
 
